@@ -4,7 +4,7 @@ body {
 
 header {
 	background-color: #cca478;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 5px;
 	margin: 15px;
 }
@@ -13,14 +13,14 @@ footer{
 	background-color: #cca478;
 	padding: 15px;
 	border-radius: 5px;
-	margin: 5px;
+	margin: 15px;
 }
 
 main{
 	background-color: #f0f1ec;
 	padding: 15px;
 	border-radius: 5px;
-	margin: 5px;
+	margin: 15px;
 }
 
 nav a{
