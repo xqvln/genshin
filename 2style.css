@@ -1,0 +1,108 @@
+body {
+	background-color: #4d6174;
+}
+
+header {
+	background-color: #cca478;
+	padding: 15px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+footer{
+	background-color: #cca478;
+	padding: 15px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+main{
+	background-color: #f0f1ec;
+	padding: 15px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+nav a{
+	text-decoration: none;
+	background-color: #f0f1ec;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+header > nav > div {
+	width: 100px;
+	height: 35px;
+	display: inline-block;
+}
+
+header > nav > div > a {
+	text-align: center;
+	width: 80px;
+	height: 20px;
+	display: block;
+	line-height: 20px;
+	color: #000000;
+	transition: background-color 0.2s ease;
+
+}
+
+header > nav > div:hover > a {
+	background-color: #4d6174;
+	cursor: pointer;
+}
+
+header > nav > div > div {
+	display: none;
+	overflow: hidden;
+	background-color: #4d6174;
+	width: 150px;
+	position: absolute;
+	box-shadow: 0 10px 20px rgba(255, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+	padding: 10px;
+}
+
+header > nav > div:hover > div {
+	display: block;
+}
+
+header > nav > div > div > a {
+	display: block;
+	float: left;
+	width: 90%;
+	margin: 2%;
+	text-align: center;
+	background-color: #f0f1ec;
+	color: #000000;
+	border-radius: 2px;
+	transition: background-color 0.2s ease;
+}
+
+header > nav > div > div > a:hover {
+	background-color: #cca478;
+	cursor: pointer;
+}
+
+
+header img{
+    float: left;
+}
+
+.g{
+	float: right;
+}
+
+main table{
+	border: 2px solid black;
+	text-align: center;
+}
+
+main td{
+	border: 2px solid black;
+}
+
+main tr:first-child{
+	background-color: #cca478;
+}
+
