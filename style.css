@@ -33,30 +33,44 @@ nav a{
 
 .img{
 	text-align: center;
+	width: 125px;
+	height: 125px;
 }
 
 .ot{
 	display: flex;
+	width: 125px;
+	height: 125px;
 }
 
 .st{
 	display: flex;
+	width: 125px;
+	height: 125px;
 }
 
 .events{
 	text-align: center;
+	width: 125px;
+	height: 125px;
 }
 
 .f{
 	display: flex;
+	width: 125px;
+	height: 125px;
 }
 
 .s{
 	display: flex;
+	width: 125px;
+	height: 125px;
 }
 
 .wishes{
 	text-align: center;
+	width: 125px;
+	height: 125px;
 }
 
 header > nav > div {
