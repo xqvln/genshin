@@ -130,6 +130,7 @@ header > nav > div > div > a:hover {
 header img{
 	float: left;
 	width: 250px;
-	height: 70pxpx;
+	height: 70px;
 	margin: 20px;
+	padding: 20px;
 }
