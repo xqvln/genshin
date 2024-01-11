@@ -132,6 +132,7 @@ header > nav > div > div > a:hover {
 	float: left;
 	width: 250px;
 	height: 70px;
+	padding-bottom: 20px;
 }
 
 main img{
