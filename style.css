@@ -32,10 +32,9 @@ nav a{
 }
 
 .img{
-	text-align: center;
-	width: 350px;
-	height: 132px;
-	padding-left:
+	width: 400px;
+	height: 500px;
+	padding-left: 300px;
 }
 
 .ot{
@@ -140,9 +139,4 @@ main img{
 	height: 70px;
 }
 
-.genshin.png{
-	width: 400px;
-	height: 500px;
-	padding-left: 300px;
-}
-	
+
